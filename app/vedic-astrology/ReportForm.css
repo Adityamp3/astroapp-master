@@ -1,0 +1,25 @@
+.dropdown {
+    position: absolute;
+    /* display: inline-block; */
+    width: 30%;
+    padding: 0 0.5rem;
+    background-color: white;
+    font-family: "Palation Linotype";
+    border-radius: 0.5rem;
+}
+
+.resultButton {
+    /* background-color: #f0f0f0; */
+    width: 100%;
+    /* border: 1px solid #787575; */
+    border-radius: 0.2rem;
+    text-align: left;
+    padding: 0.5rem 0.2rem;
+    font-size: 1rem;
+    font-family: "Palation Linotype";
+    cursor: pointer;
+}
+
+.resultButton:hover {
+    background-color: #f0f0f0;
+}
